@@ -1,0 +1,11 @@
+Roteiro/
+.claude/
+.venv/
+.env
+.env.example
+__pycache__/
+.pyc
+.png
+*.png
+*.log
+aula12\projeto_final\rag_storage

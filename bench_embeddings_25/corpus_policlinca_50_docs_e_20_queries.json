@@ -1,0 +1,443 @@
+{
+  "metadata": {
+    "titulo": "Corpus Policlínica PCDF Benchmark",
+    "curso": "MBA RAG & CAG Aplicados a Direito e Segurança Pública",
+    "versao": "1.0",
+    "data_criacao": "2026-06-25",
+    "total_documentos": 50,
+    "total_queries": 20,
+    "dominios": [
+      "Saúde Pública Policial",
+      "Saúde Ocupacional",
+      "Assistência Psicossocial",
+      "Perícias",
+      "Reabilitação",
+      "Gestão Administrativa"
+    ]
+  },
+  "documentos": [
+    {
+      "id": "D01",
+      "fonte": "Carta de Serviços",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "institucional",
+      "texto": "A Carta de Serviços é um documento que orienta os cidadãos sobre os serviços públicos ofertados pela Policlínica da PCDF, promovendo transparência e compreensão dos atendimentos disponíveis."
+    },
+    {
+      "id": "D02",
+      "fonte": "Missão",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "institucional",
+      "texto": "A missão da Policlínica é promover a saúde integral dos servidores da PCDF e dependentes por meio de atenção qualificada e humanizada."
+    },
+    {
+      "id": "D03",
+      "fonte": "Visão",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "institucional",
+      "texto": "A Policlínica busca ser referência em saúde pública policial, reconhecida pela excelência, inovação e satisfação dos servidores."
+    },
+    {
+      "id": "D04",
+      "fonte": "Valores",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "institucional",
+      "texto": "Os valores incluem ética, transparência, excelência, cuidado humanizado, eficiência, inovação e compromisso com a saúde dos policiais civis."
+    },
+    {
+      "id": "D05",
+      "fonte": "Endereço",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "informacao",
+      "texto": "A Policlínica está localizada no SGAS 915, Asa Sul, Brasília-DF, CEP 70390-150."
+    },
+    {
+      "id": "D06",
+      "fonte": "Recepção",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "atendimento",
+      "texto": "A recepção orienta usuários sobre serviços, realiza agendamentos e recebe solicitações de atendimento presencial."
+    },
+    {
+      "id": "D07",
+      "fonte": "Documentação",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "atendimento",
+      "texto": "Para consultas é necessário apresentar documento de identificação com foto e, quando necessário, exames anteriores."
+    },
+    {
+      "id": "D08",
+      "fonte": "Atendimento Pericial",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "pericia",
+      "texto": "A homologação de atestados e pedidos de restrição laboral exigem formulário específico disponível na página da Policlínica."
+    },
+    {
+      "id": "D09",
+      "fonte": "Horário de Funcionamento",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "atendimento",
+      "texto": "O atendimento ao público ocorre de segunda a sexta-feira, das 8h às 18h."
+    },
+    {
+      "id": "D10",
+      "fonte": "GERAS",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "gestao",
+      "texto": "A Gerência de Assistência à Saúde promove cuidado integral e humanizado por equipe multidisciplinar."
+    },
+    {
+      "id": "D11",
+      "fonte": "Clínica Médica",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "A Clínica Médica realiza prevenção, diagnóstico, tratamento de doenças e encaminhamentos para outras especialidades."
+    },
+    {
+      "id": "D12",
+      "fonte": "Clínica Médica - Agendamento",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "Consultas são realizadas apenas mediante agendamento prévio e não existe atendimento de emergência."
+    },
+    {
+      "id": "D13",
+      "fonte": "Ginecologia",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "O serviço atende saúde da mulher em todas as fases da vida, incluindo climatério, menopausa e consultas preventivas."
+    },
+    {
+      "id": "D14",
+      "fonte": "Colposcopia e Vulvoscopia",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "São realizados exames para diagnóstico e acompanhamento de alterações cervicais e vulvares."
+    },
+    {
+      "id": "D15",
+      "fonte": "Procedimentos Complementares",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "O setor oferece protocolos de emagrecimento e procedimentos de clareamento e rejuvenescimento íntimo."
+    },
+    {
+      "id": "D16",
+      "fonte": "Odontologia",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "O serviço realiza procedimentos de dentística voltados ao diagnóstico e tratamento de cáries e lesões dentárias."
+    },
+    {
+      "id": "D17",
+      "fonte": "Periodontia",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "São realizados controle de tártaro, prevenção de gengivite e acompanhamento de doenças periodontais."
+    },
+    {
+      "id": "D18",
+      "fonte": "Odontologia Preventiva",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "As ações priorizam educação em saúde bucal e prevenção de agravos odontológicos."
+    },
+    {
+      "id": "D19",
+      "fonte": "Nutrição",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "O serviço realiza avaliações nutricionais, antropométricas e elaboração de planos alimentares."
+    },
+    {
+      "id": "D20",
+      "fonte": "Bioimpedância",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "São realizados exames de bioimpedância para avaliação da composição corporal."
+    },
+    {
+      "id": "D21",
+      "fonte": "Educação Nutricional",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "O setor desenvolve ações de educação nutricional para prevenção de doenças relacionadas à alimentação."
+    },
+    {
+      "id": "D22",
+      "fonte": "Enfermagem",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "A Enfermagem realiza administração de medicamentos, curativos, ECG e orientações de saúde."
+    },
+    {
+      "id": "D23",
+      "fonte": "Aplicação de Medicamentos",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "A aplicação de medicamentos exige prescrição médica e utilização exclusiva de medicamentos fornecidos pela Policlínica."
+    },
+    {
+      "id": "D24",
+      "fonte": "Farmácia",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "gestao_saude",
+      "texto": "A Farmácia gerencia insumos, medicamentos, resíduos e ações educativas em saúde."
+    },
+    {
+      "id": "D25",
+      "fonte": "Descarte Correto",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "gestao_saude",
+      "texto": "O programa Descarte Correto de Medicamentos promove educação ambiental e recolhimento adequado de medicamentos."
+    },
+    {
+      "id": "D26",
+      "fonte": "Controle de Medicamentos",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "gestao_saude",
+      "texto": "A Farmácia regulamenta e controla medicamentos sujeitos a controle especial."
+    },
+    {
+      "id": "D27",
+      "fonte": "GEAP",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "assistencia_psicossocial",
+      "texto": "A Gerência de Assistência Psicossocial integra Psiquiatria, Psicologia, Assistência Social e Capelania."
+    },
+    {
+      "id": "D28",
+      "fonte": "Psiquiatria",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "saude_mental",
+      "texto": "A Psiquiatria atua na prevenção, diagnóstico, tratamento e reabilitação dos transtornos mentais."
+    },
+    {
+      "id": "D29",
+      "fonte": "Psiquiatria Ambulatorial",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "saude_mental",
+      "texto": "O atendimento ocorre em regime ambulatorial conforme necessidade clínica do paciente."
+    },
+    {
+      "id": "D30",
+      "fonte": "Urgências Psiquiátricas",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "saude_mental",
+      "texto": "Casos de urgência e emergência são encaminhados ao SAMU ou unidades hospitalares."
+    },
+    {
+      "id": "D31",
+      "fonte": "Psicologia",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "saude_mental",
+      "texto": "A Psicologia oferece psicoterapia individual, de casal e familiar."
+    },
+    {
+      "id": "D32",
+      "fonte": "Crise Psíquica",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "saude_mental",
+      "texto": "Há acolhimento em regime de plantão para situações de crise psíquica."
+    },
+    {
+      "id": "D33",
+      "fonte": "Incidentes Críticos",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "saude_mental",
+      "texto": "A Psicologia participa de intervenções em incidentes críticos e grupos reflexivos."
+    },
+    {
+      "id": "D34",
+      "fonte": "Assistência Social",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "assistencia_social",
+      "texto": "A Assistência Social orienta sobre direitos sociais e acesso a serviços públicos."
+    },
+    {
+      "id": "D35",
+      "fonte": "Estudos Socioeconômicos",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "assistencia_social",
+      "texto": "São elaborados estudos socioeconômicos para subsidiar atendimentos multiprofissionais."
+    },
+    {
+      "id": "D36",
+      "fonte": "Capelania",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "assistencia_espiritual",
+      "texto": "A Capelania oferece assistência espiritual, apoio emocional e acompanhamento religioso."
+    },
+    {
+      "id": "D37",
+      "fonte": "Projeto Fé-Capelania",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "assistencia_espiritual",
+      "texto": "O Projeto Fé-Capelania visa ampliar o apoio espiritual aos servidores e familiares."
+    },
+    {
+      "id": "D38",
+      "fonte": "GERASCI",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "reabilitacao",
+      "texto": "A GERASCI coordena ações de reabilitação física, fisioterapia e exames complementares."
+    },
+    {
+      "id": "D39",
+      "fonte": "Fisioterapia",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "reabilitacao",
+      "texto": "A Fisioterapia trata distúrbios musculoesqueléticos e promove recuperação funcional."
+    },
+    {
+      "id": "D40",
+      "fonte": "Técnicas Fisioterápicas",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "reabilitacao",
+      "texto": "São utilizadas técnicas como Pilates, McKenzie, Iso Stretching, DTM e eletrotermoterapia."
+    },
+    {
+      "id": "D41",
+      "fonte": "CERCOF",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "condicionamento_fisico",
+      "texto": "O CERCOF oferece treinamento físico personalizado e programas de prevenção de lesões."
+    },
+    {
+      "id": "D42",
+      "fonte": "Infraestrutura CERCOF",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "condicionamento_fisico",
+      "texto": "O centro possui musculação, vestiários, armários individuais e ambientes climatizados."
+    },
+    {
+      "id": "D43",
+      "fonte": "Saúde Ocupacional",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "saude_ocupacional",
+      "texto": "O Serviço de Saúde Ocupacional promove ambientes de trabalho seguros e saudáveis."
+    },
+    {
+      "id": "D44",
+      "fonte": "PASS",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "saude_ocupacional",
+      "texto": "O Programa de Avaliação da Saúde do Servidor acompanha condições físicas e mentais dos servidores."
+    },
+    {
+      "id": "D45",
+      "fonte": "PROBEM",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "promocao_saude",
+      "texto": "O PROBEM promove desenvolvimento humano, saúde mental e qualidade de vida no trabalho."
+    },
+    {
+      "id": "D46",
+      "fonte": "Projetos PROBEM",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "promocao_saude",
+      "texto": "Os programas incluem Bellona, Marte, Serh Feliz, Everest e Despertar para a Excelência."
+    },
+    {
+      "id": "D47",
+      "fonte": "Incidentes Críticos",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "saude_mental",
+      "texto": "O atendimento em incidentes críticos envolve acolhimento, intervenção psicológica e acompanhamento."
+    },
+    {
+      "id": "D48",
+      "fonte": "Perícia Médica e Odontológica",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "pericia",
+      "texto": "A perícia avalia capacidade laborativa, licenças médicas, readaptações e aptidão funcional."
+    },
+    {
+      "id": "D49",
+      "fonte": "Perícia Psicológica",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "pericia",
+      "texto": "A Perícia Psicológica realiza avaliações para porte de arma e psicodiagnóstico."
+    },
+    {
+      "id": "D50",
+      "fonte": "Perícia Social",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "pericia",
+      "texto": "A Perícia Social avalia limitações laborais e condições sociais para subsidiar decisões da Junta Médica."
+    }
+  ],
+  "queries_benchmark": [
+    { "id": "Q01", "query": "missão da policlínica pcdf", "relevancia": { "D02": 2, "D03": 1 } },
+    { "id": "Q02", "query": "endereço da policlínica asa sul", "relevancia": { "D05": 2 } },
+    { "id": "Q03", "query": "documentos necessários consulta", "relevancia": { "D07": 2, "D06": 1 } },
+    { "id": "Q04", "query": "como homologar atestado médico", "relevancia": { "D08": 2, "D06": 1 } },
+    { "id": "Q05", "query": "clínica médica possui emergência", "relevancia": { "D12": 2, "D11": 1 } },
+    { "id": "Q06", "query": "serviços oferecidos ginecologia menopausa", "relevancia": { "D13": 2, "D14": 1 } },
+    { "id": "Q07", "query": "tratamento cárie periodontia odontologia", "relevancia": { "D16": 2, "D17": 2, "D18": 1 } },
+    { "id": "Q08", "query": "bioimpedância avaliação nutricional", "relevancia": { "D19": 2, "D20": 2 } },
+    { "id": "Q09", "query": "aplicação de medicamentos exige receita", "relevancia": { "D23": 2, "D22": 1 } },
+    { "id": "Q10", "query": "descarte correto medicamentos", "relevancia": { "D25": 2, "D24": 1 } },
+    { "id": "Q11", "query": "controle medicamentos controlados", "relevancia": { "D26": 2, "D24": 1 } },
+    { "id": "Q12", "query": "tratamento transtornos mentais psiquiatria", "relevancia": { "D28": 2, "D29": 1 } },
+    { "id": "Q13", "query": "acolhimento crise psíquica", "relevancia": { "D32": 2, "D31": 1 } },
+    { "id": "Q14", "query": "direitos sociais servidores assistência social", "relevancia": { "D34": 2, "D35": 1 } },
+    { "id": "Q15", "query": "apoio espiritual capelania", "relevancia": { "D36": 2, "D37": 1 } },
+    { "id": "Q16", "query": "pilates mckenzie fisioterapia", "relevancia": { "D39": 2, "D40": 2 } },
+    { "id": "Q17", "query": "treinamento físico personalizado cercof", "relevancia": { "D41": 2, "D42": 1 } },
+    { "id": "Q18", "query": "programa pass saúde servidor", "relevancia": { "D43": 1, "D44": 2 } },
+    { "id": "Q19", "query": "projeto bellona marte serh feliz", "relevancia": { "D45": 1, "D46": 2 } },
+    { "id": "Q20", "query": "porte de arma perícia psicológica", "relevancia": { "D49": 2, "D50": 1, "D48": 1 } }
+  ]
+}
+

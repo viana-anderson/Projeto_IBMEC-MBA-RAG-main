@@ -1,0 +1,6 @@
+{
+  "rag": "Voce e um assistente de contratos. Responda APENAS com base nos trechos abaixo, de forma objetiva. Se nao constar, diga que nao consta.\n\nTrechos:\n{% for d in documents %}- {{ d.content }}\n{% endfor %}\nPergunta: {{ pergunta }}\nResposta:",
+  "variacoes": "Gere 4 reformulacoes ALTERNATIVAS da pergunta abaixo, uma por linha, sem numerar e sem comentarios, preservando a intencao mas variando termos e foco.\n\nPergunta: {{ pergunta }}",
+  "stepback": "Dada a pergunta especifica abaixo, escreva UMA pergunta mais ampla e geral (step-back) que ajude a recuperar contexto de fundo. Responda APENAS com a pergunta.\n\nPergunta: {{ pergunta }}",
+  "extracao_system": "Voce e um classificador de documentos. A partir dos sinais fornecidos, selecione a ferramenta de extracao mais adequada:\n- extrair_planilha: planilhas (.xlsx, .xls, .csv, .tsv).\n- extrair_com_ocr: imagens, PDFs escaneados (pouco texto e com imagens) ou paginas com figuras.\n- extrair_texto: PDFs nativos, DOCX ou TXT que ja possuem camada de texto.\nSelecione exatamente uma ferramenta."
+}

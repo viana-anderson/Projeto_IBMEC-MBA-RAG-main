@@ -1,0 +1,54 @@
+# Projeto Final (Aula 12) - API de Ingestao Inteligente + RAG
+# pip install -r requirements.txt  (ambiente virtual ATIVADO)
+
+# --- API ---
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9       # upload de arquivos (UploadFile)
+pydantic>=2.6
+
+# --- Orquestracao / RAG ---
+haystack-ai>=2.30             # Agent (decisao de extracao) + pipelines de busca
+opensearch-haystack>=3.0      # indexacao/busca densa
+ollama-haystack>=4.0          # embeddings (nomic-embed-text)
+openai>=1.40                  # cliente Groq (LLM)
+
+# --- Extracao de documentos ---
+docling>=2.0                  # PDF/DOCX + OCR (do_ocr=True) para figuras/escaneados
+transformers>=4.49,<5         # layout do Docling usa rt_detr_v2 (>=4.49); <5 evita quebra
+pymupdf>=1.24                 # probe do PDF (camada de texto, imagens) -> import fitz
+pandas>=2.0                   # planilhas (XLSX/CSV)
+openpyxl>=3.1                 # leitura de .xlsx
+tabulate>=0.9                 # df.to_markdown()
+
+# --- Grafo (destino opcional) ---
+lightrag-hku>=1.4             # indexacao em grafo (quando a heuristica escolher)
+networkx>=3.0                 # ler o GraphML do LightRAG no /graph (vem com lightrag, fixado p/ clareza)
+
+# --- Observabilidade (Langfuse) ---
+langfuse>=4                   # tracing da busca (grafo via @observe; chaves no .env)
+langfuse-haystack>=4          # LangfuseConnector (auto-trace do pipeline de busca OpenSearch)
+
+# --- Avaliacao (metricas + RAGAS) ---
+scikit-learn>=1.3             # AUC-ROC das metricas de retrieval (app/metricas.py)
+ragas>=0.4                    # metricas RAGAS na avaliacao em lote
+langchain-openai>=0.2         # juiz RAGAS agnostico (endpoint OpenAI-compativel)
+langchain-ollama>=0.2         # embeddings do juiz RAGAS (Ollama)
+langchain-community==0.4.1    # pin exigido pelo ragas (licao da Aula 5)
+
+# --- Rerank (opcional: rerank='modelo') ---
+torch>=2.0                    # backend do cross-encoder
+accelerate>=0.26             # exigido pelo TransformersSimilarityRanker (bge-reranker)
+# (transformers ja fixado acima; RERANK_MODEL no .env, default BAAI/bge-reranker-v2-m3)
+
+# --- Interface ---
+gradio>=4.44                  # interface web da API (interface.py)
+requests>=2.31                # interface -> API
+
+# --- Utilidades ---
+python-dotenv>=1.0
+
+# Notas:
+# - LLM (Groq): llama-3.3-70b-versatile (tool calling) -> nao usar gpt-oss (reasoning).
+# - Embedding: nomic-embed-text (Ollama) -> ollama pull nomic-embed-text.
+# - OpenSearch via docker-compose (datasets/docker-compose.yml).

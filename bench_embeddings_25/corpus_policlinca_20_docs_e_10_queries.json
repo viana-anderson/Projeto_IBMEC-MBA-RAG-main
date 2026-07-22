@@ -1,0 +1,268 @@
+
+{
+  "metadata": {
+    "titulo": "Corpus Policlínica PCDF Benchmark",
+    "curso": "MBA RAG & CAG Aplicados a Direito e Segurança Pública",
+    "versao": "1.0",
+    "data_criacao": "2026-06-25",
+    "total_documentos": 20,
+    "total_queries": 10,
+    "dominios": [
+      "Saúde Ocupacional",
+      "Saúde Pública Policial",
+      "Assistência Psicossocial",
+      "Perícias",
+      "Reabilitação"
+    ]
+  },
+  "documentos": [
+    {
+      "id": "D01",
+      "fonte": "Missão e Visão da Policlínica",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "institucional",
+      "texto": "A Policlínica da PCDF tem como missão promover a saúde integral dos servidores e dependentes por meio de serviços qualificados e humanizados. Busca ser referência em saúde pública policial, reconhecida pela excelência, inovação e satisfação dos servidores."
+    },
+    {
+      "id": "D02",
+      "fonte": "Recepção da Policlínica",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "atendimento",
+      "texto": "A recepção orienta os servidores sobre os serviços disponíveis e realiza agendamentos. Consultas podem ser marcadas pelos telefones 3207-5851 e 3207-5853 ou presencialmente. O funcionamento ao público ocorre de segunda a sexta-feira, das 8h às 18h."
+    },
+    {
+      "id": "D03",
+      "fonte": "Clínica Médica",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "O ambulatório de Clínica Médica atende apenas consultas previamente agendadas e não oferece emergência. Atua na prevenção, diagnóstico e tratamento de doenças, podendo solicitar exames e encaminhar pacientes para outras especialidades."
+    },
+    {
+      "id": "D04",
+      "fonte": "Ginecologia",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "O serviço de Ginecologia oferece atendimento integral à saúde da mulher, incluindo climatério, menopausa, colposcopia, vulvoscopia, consultas de rotina e procedimentos complementares como protocolos de emagrecimento e rejuvenescimento íntimo."
+    },
+    {
+      "id": "D05",
+      "fonte": "Odontologia",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "O serviço de Odontologia realiza procedimentos de dentística e periodontia, incluindo tratamento de cáries, profilaxia, controle de doenças gengivais e ações preventivas voltadas à educação em saúde bucal."
+    },
+    {
+      "id": "D06",
+      "fonte": "Nutrição",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "O Serviço de Nutrição realiza avaliações nutricionais e antropométricas, exames de bioimpedância, prescrição nutricional, educação alimentar e encaminhamento para tratamentos especializados quando necessário."
+    },
+    {
+      "id": "D07",
+      "fonte": "Enfermagem",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "A Enfermagem realiza administração de medicamentos, curativos simples, aferição de sinais vitais, glicemia capilar, eletrocardiograma, retirada de pontos e orientações de saúde. A aplicação de medicação exige prescrição médica válida."
+    },
+    {
+      "id": "D08",
+      "fonte": "Farmácia",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "servico_saude",
+      "texto": "A Farmácia gerencia medicamentos, insumos e resíduos da Policlínica. Mantém controle de medicamentos sujeitos a controle especial e desenvolve o programa Descarte Correto de Medicamentos para educação ambiental."
+    },
+    {
+      "id": "D09",
+      "fonte": "Psiquiatria",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "assistencia_psicossocial",
+      "texto": "O serviço de Psiquiatria realiza prevenção, diagnóstico, tratamento e reabilitação de transtornos mentais em regime ambulatorial. Casos de urgência e emergência são encaminhados ao SAMU ou hospitais."
+    },
+    {
+      "id": "D10",
+      "fonte": "Psicologia",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "assistencia_psicossocial",
+      "texto": "A Psicologia oferece psicoterapia individual, de casal e familiar, acolhimento em situações de crise psíquica, grupos reflexivos, intervenções em incidentes críticos e análises relacionadas ao sofrimento no trabalho."
+    },
+    {
+      "id": "D11",
+      "fonte": "Assistência Social",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "assistencia_psicossocial",
+      "texto": "A Assistência Social atende policiais civis, dependentes, aposentados e pensionistas, orientando sobre direitos sociais, elaborando estudos socioeconômicos e articulando redes de apoio para garantia de direitos."
+    },
+    {
+      "id": "D12",
+      "fonte": "Capelania",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "assistencia_espiritual",
+      "texto": "A Capelania presta assistência espiritual aos servidores por meio de atendimentos individuais, visitas domiciliares e hospitalares, apoio em momentos críticos, cerimônias religiosas e ações integradas com psicologia e psiquiatria."
+    },
+    {
+      "id": "D13",
+      "fonte": "GERASCI",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "reabilitacao",
+      "texto": "A Gerência de Reabilitação e Assistência Complementar promove prevenção, recuperação e reabilitação da saúde física dos servidores, coordenando serviços de fisioterapia, condicionamento físico e exames complementares."
+    },
+    {
+      "id": "D14",
+      "fonte": "Fisioterapia",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "reabilitacao",
+      "texto": "A Fisioterapia atende distúrbios musculoesqueléticos por meio de eletrotermoterapia, pilates, tratamento de DTM, método McKenzie, reeducação postural, alongamentos e outras técnicas de reabilitação."
+    },
+    {
+      "id": "D15",
+      "fonte": "CERCOF",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "condicionamento_fisico",
+      "texto": "O CERCOF oferece treinamento físico personalizado, programas de reabilitação, prevenção de lesões, avaliações físicas periódicas e orientação para condicionamento físico voltado às atividades policiais."
+    },
+    {
+      "id": "D16",
+      "fonte": "Saúde Ocupacional",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "saude_ocupacional",
+      "texto": "O Serviço de Saúde Ocupacional busca garantir saúde, segurança e qualidade de vida no trabalho. Desenvolve ações como PASS, avaliações de atletas da PCDF, exames admissionais e participação na comissão CASOS."
+    },
+    {
+      "id": "D17",
+      "fonte": "PROBEM",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "promocao_saude",
+      "texto": "O PROBEM promove saúde integral e desenvolvimento humano por meio de programas como Bellona, Marte, Despertar para a Excelência, Serh Feliz e Everest, voltados à saúde mental, liderança e preparação para aposentadoria."
+    },
+    {
+      "id": "D18",
+      "fonte": "Incidentes Críticos",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "saude_mental",
+      "texto": "O serviço de Prevenção e Manejo de Incidentes Críticos atua em situações de forte impacto emocional, como suicídios, mortes em serviço e eventos traumáticos. O processo inclui acolhimento, intervenção psicológica e acompanhamento."
+    },
+    {
+      "id": "D19",
+      "fonte": "Perícia Médica e Odontológica",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "pericia",
+      "texto": "A Perícia Médica e Odontológica avalia a saúde física e bucal dos servidores, analisa laudos e atestados, realiza inspeções periciais, acompanha licenças médicas e verifica aptidão para atividades específicas."
+    },
+    {
+      "id": "D20",
+      "fonte": "Perícia Psicológica e Social",
+      "data": "2026-01-01",
+      "vigente": true,
+      "tipo": "pericia",
+      "texto": "A Perícia Psicológica realiza avaliações para porte de arma e psicodiagnóstico. A Perícia Social analisa situações sociais e laborais de servidores com limitações físicas ou mentais, subsidiando decisões da Junta Médica."
+    }
+  ],
+  "queries_benchmark": [
+    {
+      "id": "Q01",
+      "query": "como marcar consulta na policlinica telefones atendimento",
+      "relevancia": {
+        "D02": 2,
+        "D03": 1,
+        "D06": 1
+      }
+    },
+    {
+      "id": "Q02",
+      "query": "serviço não oferece atendimento de emergência",
+      "relevancia": {
+        "D03": 2,
+        "D09": 1
+      }
+    },
+    {
+      "id": "Q03",
+      "query": "bioimpedância avaliação nutricional plano alimentar",
+      "relevancia": {
+        "D06": 2,
+        "D03": 1
+      }
+    },
+    {
+      "id": "Q04",
+      "query": "aplicação de medicamentos exige prescrição médica",
+      "relevancia": {
+        "D07": 2,
+        "D08": 1
+      }
+    },
+    {
+      "id": "Q05",
+      "query": "descarte correto de medicamentos controle especial",
+      "relevancia": {
+        "D08": 2,
+        "D07": 1
+      }
+    },
+    {
+      "id": "Q06",
+      "query": "acolhimento crise psíquica psicoterapia individual família",
+      "relevancia": {
+        "D10": 2,
+        "D09": 1,
+        "D18": 1
+      }
+    },
+    {
+      "id": "Q07",
+      "query": "apoio espiritual visitas hospitalares cerimônias religiosas",
+      "relevancia": {
+        "D12": 2,
+        "D11": 1,
+        "D10": 1
+      }
+    },
+    {
+      "id": "Q08",
+      "query": "tratamentos fisioterapia pilates mckenzie dtm",
+      "relevancia": {
+        "D14": 2,
+        "D13": 1,
+        "D15": 1
+      }
+    },
+    {
+      "id": "Q09",
+      "query": "programas bellona marte serh feliz aposentadoria",
+      "relevancia": {
+        "D17": 2,
+        "D16": 1
+      }
+    },
+    {
+      "id": "Q10",
+      "query": "porte de arma avaliação psicológica perícia social",
+      "relevancia": {
+        "D20": 2,
+        "D19": 1,
+        "D10": 1
+      }
+    }
+  ]
+}
+

@@ -1,0 +1,22 @@
+# Bancada de Avaliacao de Embeddings (Gradio + API)
+# pip install -r requirements.txt  (ambiente virtual ATIVADO)
+
+# --- API ---
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.6
+
+# --- Interface ---
+gradio>=4.44
+
+# --- Avaliacao ---
+numpy>=1.26
+scikit-learn>=1.5     # ndcg_score, roc_auc_score
+pandas>=2.0
+matplotlib>=3.8       # graficos (barras + radar)
+requests>=2.31        # API de embeddings do Ollama + chamada Gradio->API
+python-dotenv>=1.0
+
+# Modelos de embedding sao hospedados pelo OLLAMA (nao via pip):
+#   ollama pull nomic-embed-text
+#   ollama pull bge-m3

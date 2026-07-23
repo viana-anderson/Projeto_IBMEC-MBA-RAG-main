@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "nome": "Dataset de Avaliação — Aula 12 Projeto Final",
+    "descricao": "Dataset de avaliação baseado na Carta de Serviços da Policlínica da Polícia Civil do Distrito Federal.",
+    "instrucoes": "1) Execute o pipeline para cada pergunta. 2) Preencha 'answer' com a resposta gerada. 3) Preencha 'contexts' com os chunks recuperados. 4) Mantenha 'ground_truth' como referência para avaliação RAGAS.",
+    "distribuicao": "8 factuais + 6 analiticas + 6 comparativas = 20 total",
+    "versao": "1.0",
+    "aula": "Aula 12 — Projeto Final"
+  },
+  "queries": [
+    {
+      "id": "q001",
+      "tipo": "fatual",
+      "question": "Quem pode ser atendido na Policlínica da Polícia Civil?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "A Policlínica atende prioritariamente policiais civis ativos e aposentados, além de servidores da carreira de apoio e, em diversos serviços, também seus dependentes."
+    },
+    {
+      "id": "q002",
+      "tipo": "fatual",
+      "question": "O que eu preciso levar quando for à minha consulta?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "O usuário deve apresentar documento de identificação com foto, podendo ser impresso ou digital. Caso possua, também deve levar exames anteriores relacionados ao atendimento."
+    },
+    {
+      "id": "q003",
+      "tipo": "fatual",
+      "question": "Dá para marcar consulta por telefone ou preciso ir até lá?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "As consultas podem ser agendadas por telefone ou presencialmente na recepção da Policlínica, conforme o serviço desejado."
+    },
+    {
+      "id": "q004",
+      "tipo": "fatual",
+      "question": "A clínica atende casos de emergência médica?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "Não. O ambulatório de Clínica Médica realiza apenas consultas previamente agendadas e não oferece atendimento de emergência."
+    },
+    {
+      "id": "q005",
+      "tipo": "fatual",
+      "question": "Se eu precisar de um remédio aplicado na enfermagem, posso levar o medicamento de casa?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "Não. Para aplicação de medicamentos é obrigatória a apresentação de prescrição médica, e somente são utilizadas medicações fornecidas pela Farmácia da Policlínica."
+    },
+    {
+      "id": "q006",
+      "tipo": "fatual",
+      "question": "O que o serviço de nutrição faz além de passar dieta?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "O Serviço de Nutrição realiza avaliações nutricionais e antropométricas, exames de bioimpedância, prescrição nutricional, educação alimentar, prevenção de doenças relacionadas à alimentação e encaminhamentos quando necessários."
+    },
+    {
+      "id": "q007",
+      "tipo": "fatual",
+      "question": "Se eu estiver passando por problemas emocionais, a Policlínica oferece atendimento psicológico?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "Sim. O Serviço de Psicologia oferece psicoterapia individual, de casal e família, acolhimento, escuta qualificada, atendimento em crises psíquicas e ações voltadas à saúde mental."
+    },
+    {
+      "id": "q008",
+      "tipo": "fatual",
+      "question": "A academia da Policlínica é paga?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "Não. O Centro de Reabilitação e Condicionamento Físico (CERCOF) disponibiliza gratuitamente sala de musculação e acompanhamento profissional aos usuários contemplados."
+    },
+    {
+      "id": "q009",
+      "tipo": "analitica",
+      "question": "Se um policial estiver machucado e precisar voltar ao trabalho, quais setores da Policlínica podem participar desse processo?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "Dependendo da situação, podem atuar conjuntamente a Fisioterapia na reabilitação física, a Saúde Ocupacional na avaliação das condições de trabalho, a Perícia Médica na capacidade laborativa e outros serviços multiprofissionais para garantir o retorno seguro às atividades."
+    },
+    {
+      "id": "q010",
+      "tipo": "analitica",
+      "question": "Como a Policlínica ajuda um servidor que está enfrentando problemas de saúde mental?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "O atendimento pode envolver Psicologia, Psiquiatria, Assistência Social, Capelania e programas institucionais de promoção da saúde mental, proporcionando acolhimento, diagnóstico, tratamento, acompanhamento e apoio psicossocial conforme a necessidade de cada caso."
+    },
+    {
+      "id": "q011",
+      "tipo": "analitica",
+      "question": "Por que a Policlínica oferece tantos serviços diferentes em vez de tratar apenas doenças?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "A missão da Policlínica é promover a saúde integral dos servidores, atuando na prevenção, diagnóstico, tratamento, reabilitação, promoção da qualidade de vida, saúde ocupacional e bem-estar por meio de equipes multidisciplinares."
+    },
+        {
+      "id": "q012",
+      "tipo": "analitica",
+      "question": "Como funciona o atendimento quando um servidor passa por uma situação muito traumática durante o trabalho?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "A Policlínica possui um Serviço de Prevenção e Manejo de Incidentes Críticos. Após a identificação de um incidente crítico, o atendimento é composto pelas etapas de acolhimento e triagem, intervenção psicológica e encaminhamento com acompanhamento, buscando preservar a saúde mental e prevenir agravamentos."
+    },
+    {
+      "id": "q013",
+      "tipo": "analitica",
+      "question": "Por que a Policlínica realiza perícias médicas em vez de apenas aceitar os atestados apresentados pelos servidores?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "As perícias têm a finalidade de avaliar tecnicamente a condição de saúde do servidor, analisar laudos e atestados, emitir pareceres, verificar a capacidade laborativa e assegurar que decisões relacionadas a licenças, readaptações e outras situações sejam tomadas com critérios técnicos, éticos e legais."
+    },
+    {
+      "id": "q014",
+      "tipo": "analitica",
+      "question": "Como os diferentes profissionais da Policlínica trabalham juntos para cuidar de um servidor?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "A Carta de Serviços destaca a atuação integrada de equipes multiprofissionais. Dependendo da necessidade, médicos, psicólogos, psiquiatras, enfermeiros, fisioterapeutas, nutricionistas, assistentes sociais, farmacêuticos e outros profissionais atuam de forma interdisciplinar para oferecer atendimento integral ao servidor."
+    },
+    {
+      "id": "q015",
+      "tipo": "comparativa",
+      "question": "Qual é a diferença entre ser atendido pelo psicólogo e pelo psiquiatra?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "O Serviço de Psicologia oferece psicoterapia, acolhimento e acompanhamento psicológico individual, de casal e família. Já a Psiquiatria realiza avaliação médica especializada, diagnóstico, tratamento e reabilitação dos transtornos mentais, podendo indicar medicamentos quando necessário."
+    },
+    {
+      "id": "q016",
+      "tipo": "comparativa",
+      "question": "Qual a diferença entre fazer fisioterapia e frequentar o CERCOF?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "A Fisioterapia é voltada para avaliação, tratamento e reabilitação de distúrbios musculoesqueléticos por profissionais especializados. O CERCOF oferece estrutura para condicionamento físico, treinamento personalizado, prevenção de lesões, acompanhamento profissional e programas de reabilitação física."
+    },
+    {
+      "id": "q017",
+      "tipo": "comparativa",
+      "question": "Em que a Assistência Social é diferente da Capelania?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "A Assistência Social orienta sobre direitos sociais, realiza estudos socioeconômicos, articula redes de apoio e acompanha demandas sociais dos servidores. A Capelania oferece assistência espiritual, apoio religioso, conforto emocional, acompanhamento hospitalar e domiciliar, além de cerimônias e atividades religiosas."
+    },
+    {
+      "id": "q018",
+      "tipo": "comparativa",
+      "question": "Qual é a diferença entre uma consulta médica comum e uma perícia médica?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "A consulta médica busca prevenir, diagnosticar e tratar doenças. Já a perícia médica realiza avaliação técnica para emissão de pareceres relacionados à capacidade laborativa, licenças, readaptação, aposentadoria, posse, acidentes em serviço e outras situações administrativas previstas."
+    },
+        {
+      "id": "q019",
+      "tipo": "comparativa",
+      "question": "Qual a diferença entre procurar atendimento psicológico por conta própria e ser encaminhado depois de um incidente crítico?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "O atendimento psicológico espontâneo ocorre por iniciativa do servidor ou por encaminhamento de outros serviços da Policlínica para acompanhamento clínico. Já o atendimento após um incidente crítico integra um protocolo específico de acolhimento, intervenção psicológica e acompanhamento destinado a eventos de grande impacto emocional relacionados ao serviço."
+    },
+    {
+      "id": "q020",
+      "tipo": "comparativa",
+      "question": "Qual é a diferença entre os programas de promoção da saúde no trabalho e os atendimentos realizados nas consultas da Policlínica?",
+      "answer": "",
+      "contexts": [],
+      "ground_truth": "Os programas de promoção da saúde, desenvolvidos pelo PROBEM e pela Saúde Ocupacional, têm caráter preventivo, educativo e voltado ao desenvolvimento humano, qualidade de vida e bem-estar dos servidores. Já as consultas clínicas e especializadas são destinadas ao diagnóstico, tratamento, acompanhamento e reabilitação das condições individuais de saúde."
+    }
+  ]
+}

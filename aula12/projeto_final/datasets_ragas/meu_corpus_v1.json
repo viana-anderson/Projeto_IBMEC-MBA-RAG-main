@@ -1,0 +1,126 @@
+{
+  "nome": "meu_corpus_v1",
+  "origem": "opensearch",
+  "itens": [
+    {
+      "pergunta": "Onde fica localizada a Policlínica?",
+      "resposta_referencia": "Asa Sul, Brasília, DF",
+      "documentos_relevantes": [
+        "b1e87c12578f6ba4298f0b40cd94c83df2d77e9b68c865ec8330264708322f1a"
+      ],
+      "contexto_referencia": "CARTA DE\nSERVIÇOS\nAO USUÁRIO\nPOLICLÍNICA/GABDG/PCDF\n\n\nSGAS 915 lote A \n Asa Sul - Brasília DF \n70390-150\nTelefone Geral : 3207-5851\nEndereço web:\nhttps://www.pcdf.df.gov.br/servicos/policlinica\n@poli.com.voce\nCARTA DE SERVIÇOS\nAO USUÁRIO\n\n\nApoio: Divisão de Planejamento Estratégico - DIPLANE/GABDG\nDaniela Aquino Melo de Oliveira - Diretora\nHoanna Isabely Gomes Rabelo - Assessora Técnica\nDiagramação e Revisão de Textos: \nDanielle Currlin  -  Chefe Probem - SC-02615-JP\nMaria Izabel Cortepasse Peres Oliveira - Chefe SSO\nAgradecimentos a toda a equipe da Policlínica 2025\nJosé Werick de Carvalho\nDelegado-Geral \nViviane da Cunha Bonato\nChefe de Gabinete \nCyntia Gioconda Honorato Nascimento \nDiretora da Policlínica\n \n \nRegina Maura Akemi Utima  \nDiretora-Adjunta da Policlínica\nPolícia Civil do Distrito Federal\n\n\nO QUE É A CARTA DE SERVIÇOS......................................................................................................................5\nSOBRE A POLICLÍNICA......................................................................................................................................5\nNOSSO ENDEREÇO.......................................................................................................................................... 6\nRECEPÇÃ0..........................................................................................................................................................7\nSERVIÇO DE CLÍNICA MÉDICA....................................."
+    },
+    {
+      "pergunta": "Qual é o objetivo do sistema em relação ao atendimento?",
+      "resposta_referencia": "Oferecer atendimento de qualidade e seguro",
+      "documentos_relevantes": [
+        "ba0c85a762f8776635907b6d9dbbc467708fe9c67b8220d35e806c9884eea207"
+      ],
+      "contexto_referencia": "Excelência: Buscar continuamente a melhoria dos processos e\nserviços, com foco na qualidade e na segurança do atendimento.\nCuidado Humanizado: Oferecer um atendimento empático e\ncentrado nas necessidades individuais dos servidores e de seus\ndependentes.\nEficiência e Inovação: Otimizar recursos e adotar práticas\ninovadoras para garantir a sustentabilidade e a efetividade das\nações em saúde.\n "
+    },
+    {
+      "pergunta": "Onde fica a policlínica da Polícia Civil do Distrito Federal?",
+      "resposta_referencia": "SGAS I St. de Grandes Áreas Sul 915, Brasília/DF",
+      "documentos_relevantes": [
+        "081da4ea7ed3617ce88386b627a10620bd7ec8a88aee6441b4b526048b2464e4"
+      ],
+      "contexto_referencia": "Compromisso: Zelar pela saúde e bem-estar dos policiais civis,\nreconhecendo a importância de seu papel para a segurança\npública do DF.\nSGAS I St. de Grandes Áreas Sul 915 \nBrasília/DF - CEP 70390-150\nNosso\nendereço\n6\nPOLICLÍNICA/GABDG/ PCDF\n\n\nRecepção da\nPoliclínica\nRecepção da\nPoliclínica\nA Recepção da Policlínica da PCDF\nestá de portas abertas para\nreceber você !\n"
+    },
+    {
+      "pergunta": "Quais são os horários para obter atestado médico?",
+      "resposta_referencia": "13h às 18h",
+      "documentos_relevantes": [
+        "c8cd0eafd91fb3892ab69b39c90a7a42230f6f0be46810f00ead9a6dc43a7dfd"
+      ],
+      "contexto_referencia": "Documento de identificação com foto\n (impresso ou digital) \nExames passados, se necessário.\nO QUE LEVAR NO DIA DA CONSULTA\nATENDIMENTO PERICIAL\nHomologação de atestados | Pedido de restrição laboral\nAtestado odontológico: 8h às 12h\nAtestado médico: 13h às 18h\nNecessário preenchimento do formulário correspondente, disponível na internet,\nna página da Policlínica, aba “Formulários”.\nA RECEPÇÃO DA POLICLÍNICA DA PCDF\nInforma e orienta os servidores sobre os serviços disponíveis;\nRealiza agendamentos nas especialidades da Poli;\nCOMO MARCAR CONSULTAS\n             (61) 3207-5851/ 5853\nou\nPessoalmente na recepção\nCARTA DE SERVIÇOS AO USUÁRIO\n3\n7\nHORÁRIO DE FUNCIONAMENTO  \nSegunda a Sexta - 8h - 18h (ao público) \nSegunda a Sexta - 7h - 19h (interno)\nPOLICLÍNICA/GABDG/ PCDF\n\n\nCARTA DE SERVIÇOS AO USUÁRIO\n A Gerência de Assistência à Saúde  tem como missão\npromover cuidado integral e humanizado aos usuários,\npor meio de uma equipe multidisciplinar comprometida\ncom a prevenção, acolhimento e acompanhamento\ncontínuo da saúde. \n"
+    },
+    {
+      "pergunta": "Como faço para marcar uma consulta médica?",
+      "resposta_referencia": "De segunda a sexta, das 8h às 12h, por telefone ou na recepção",
+      "documentos_relevantes": [
+        "df55e1717ccea9d603f7057f4fd7f946eada648f8e4cfb2c5af491e210f6ac75"
+      ],
+      "contexto_referencia": "Atuando de forma interdisciplinar, compreende os\nserviços de:\nClínica Médica\nGinecologia (SAM);\nOdontologia (SO);\nNutrição (SENUTRI);\nEnfermagem (SENF);\nFarmácia (SEFAR).\nCARTA DE SERVIÇOS AO USUÁRIO\n3\nGERAS\n8\nPOLICLÍNICA/GABDG/ PCDF\n\n\nO Ambulatório de Clínica Médica atende somente mediante consultas\npreviamente agendadas, não oferecendo serviço de emergência.\n Sua atuação concentra-se na prevenção, diagnóstico e tratamento de\ndiversas doenças, além de fornecer orientações individualizadas aos\npacientes. \nQuando necessário, são solicitados exames complementares e\nrealizados encaminhamentos para outras especialidades, dentro ou\nfora da Policlínica.\nClínica Médica\nMARCAÇÃO DE CONSULTAS\nDe segunda a sexta, das 8h às 12h;Por telefone: (61) 3207-5851 / 5853;\nProcura espontânea na recepção;\nEncaminhamentos internos de outras especialidades.\nPOLICLÍNICA/GABDG/ PCDF\nCARTA DE SERVIÇOS AO USUÁRIO\n39\nPÚBLICO ATENDIDO\nCarreira policial (ativos e aposentados), prioritariamente;\nDependentes de policiais;\nCarreira de apoio à atividade policial;\n\n\nSAÚDE DA MULHER\nNosso atendimento em Ginecologia oferece cuidado integral e\nindividualizado, com foco em saúde, bem-estar e qualidade de vida em\ntodas as fases da vida da mulher.\n"
+    },
+    {
+      "pergunta": "Quais exames são oferecidos para diagnóstico de alterações na região feminina?",
+      "resposta_referencia": "Colposcopia e Vulvoscopia",
+      "documentos_relevantes": [
+        "460f74c6ea350db4dc08740d988a77c5bcbdcb8d2ec8088c17935cac4de9a8b5"
+      ],
+      "contexto_referencia": "SERVIÇOS DISPONÍVEIS\nClimatério e Menopausa – acompanhamento especializado e\nreposição hormonal, quando indicada.\nColposcopia \ne \nVulvoscopia \n– \nexames \npara \ndiagnóstico \ne\nacompanhamento de alterações cervicais e vulvares.\nRotina Ginecológica – consultas periódicas, exames preventivos e\norientações personalizadas.\n"
+    },
+    {
+      "pergunta": "Quais serviços odontológicos são oferecidos?",
+      "resposta_referencia": "Dentística e Periodontia",
+      "documentos_relevantes": [
+        "18552da4b0db119bd91799e20ad423ad0c4409d23a801b99cedc0cfedafc3fb4"
+      ],
+      "contexto_referencia": "PROCEDIMENTOS ESTÉTICOS E COMPLEMENTARES\nAlém do atendimento clínico, também dispomos de protocolos e\ntratamentos que podem contribuir para a saúde e autoestima:\nProtocolos de emagrecimento\nClareamento e rejuvenescimento íntimo\nMARCAÇÃO DE CONSULTAS\nSegunda a Quarta-feira - | 8h às 12h → até 4 pacientes/dia\nQuinta-feira |- 14h às 18h → até 4 pacientes\nAgende pelo telefone: (61) 3207-5853\nPOLICLÍNICA/GABDG/ PCDF\nCARTA DE SERVIÇOS AO USUÁRIO\n3\nGinecologia\n10\n\n\nOdontologia\nTRATAMENTOS REALIZADOS\nDentística - diagnóstico e tratamento de cáries e lesões nos dentes,\nincluindo profilaxia, avaliação radiográfica e troca de restaurações\ncomprometidas, com foco em preservar função e estética.\nPeriodontia -  remoção de tártaro, controle de inflamações gengivais e\nacompanhamento para prevenir doenças como gengivite e periodontite.\nEsses procedimentos visam engajar o paciente em práticas de higienização\ncorretas, promovendo prevenção e redução de tratamentos invasivos.\n  \n"
+    },
+    {
+      "pergunta": "Como eu faço para marcar uma consulta na policlínica?",
+      "resposta_referencia": "Você pode ligar nos telefones (61) 3207-5851 ou 5853, ou ir diretamente à recepção da Policlínica.",
+      "documentos_relevantes": [
+        "e6474557849f792eeac408e82dc1d7d3c0980cbf028810204a839cb8b2a272e1"
+      ],
+      "contexto_referencia": "MARCAÇÃO DE CONSULTAS\nSegunda a sexta feira, de 08:00 às 18:30 horas.\n(61) 3207-5851; 3207-5853; ou\nApós o retorno da consulta, diretamente na Recepção da Policlínica\n \nAs ações do Serviço de Odontologia priorizam\na odontologia preventiva, com foco na\neducação e conscientização dos servidores\nsobre a importância da saúde bucal,\npromovendo o engajamento ativo nesse\nprocesso. Além disso, são atendidas as\ndemandas individuais, com acolhimento e\nsoluções personalizadas no dia a dia.\nPÚBLICO ATENDIDO\nCarreira policial (ativos e aposentados);\nCarreira de apoio à atividade policial;\nPOLICLÍNICA/GABDG/ PCDF\nCARTA DE SERVIÇOS AO USUÁRIO\n3\n11\n\n\n            O SERVIÇO DE NUTRIÇÃO OFERECE\nAvaliações nutricionais e antropométricas, pareceres e relatórios\nquando solicitado pelos outros núcleos desta Policlínica;\nExames de Bioimpedância;\nPrescrição nutricional;\nDesenvolve trabalhos de educação nutricional que visem à\nprevenção e controle das diversas doenças relacionadas a uma\nalimentação inadequada;\nOrienta e encaminha pacientes para tratamento especializado\nquando necessário.\nPÚBLICO ATENDIDO\nCarreira policial (ativos e aposentados);\nCarreira de apoio à atividade policial;\nDependentes de policiais;\n O Serviço de Nutrição presta\nassistência nutricional, orientações e\nelaboração de planos alimentares aos\nservidores de acordo com os padrões\néticos e científicos estabelecidos\nMARCAÇÃO DE CONSULTAS E EXAMES\nConsulta com hora marcada, por meio dos telefones (61) 3207-5851 /5853.\nProcura espontân"
+    },
+    {
+      "pergunta": "Como posso agendar um serviço de enfermagem?",
+      "resposta_referencia": "Ligue para (61) 3207-5909",
+      "documentos_relevantes": [
+        "bfd9801aaf7340a8c90576fcde37b7014a98760faea0c468327f26750198f503"
+      ],
+      "contexto_referencia": "Nutrição\nPOLICLÍNICA/GABDG/ PCDF\nCARTA DE SERVIÇOS AO USUÁRIO\n3\n12\n\n\nPO\nLIC\nEnfermagem\nPROCEDIMENTOS REALIZADOS\nAdministração de medicamentos vias: venosa, intramuscular, e oral,\ncurativos simples (não temos insumos e medicamentos para curativos\nde \nferida \ncontaminada), \nverificação \nde \nsinais \nvitais, \nmedidas\nantropométricas, glicemia capilar, eletrocardiograma (ECG) , realização\ndo pentacan, auxilio no teste ergométrico, retirada de pontos,\nassistência de enfermagem ao médico (quando for solicitado),\ndistribuição de preservativos, orientação de saúde, lavagem, preparo e\nesterilização de material, confecções de embalagens.\n  \nPARA SOLICITAR OS SERVIÇOS DE ENFERMAGEM\n(61) 3207- 5909\nPOLICLÍNICA/GABDG/ PCDF\nCARTA DE SERVIÇOS AO USUÁRIO\n3\nO Serviço de Enfermagem tem como\nmissão cuidar da saúde e do bem-estar\ndos servidores da PCDF, promovendo a\nprevenção de doenças, a recuperação e a\nreabilitação da saúde, sempre com ética,\nrespeito e atenção humanizada. Vai além\ndo conhecimento técnico, oferecendo\ncuidado integral ao paciente.\n \nAPLICAÇÃO DE MEDICAÇÃO, CURATIVOS E ECG\n Para servidores, funcionários e dependentes, é obrigatória a apresentação\nde prescrição médica de profissional habilitado ou autorizado pelo médico\nassistente da Policlínica. Somente serão utilizadas medicações fornecidas\npela Farmácia da Policlínica; não é permitido trazer medicamentos de fora.\n13\n\n\nCARTA DE SERVIÇOS AO USUÁRIO\nFarmácia\nRealiza a gestão de insumos, medicamentos e ações\neducativas em saúde, c"
+    },
+    {
+      "pergunta": "Como a Policlínica da PCDF lida com o descarte de medicamentos?",
+      "resposta_referencia": "Ela tem um programa de descarte correto e pontos de recolhimento.",
+      "documentos_relevantes": [
+        "faa4959e07b149a624c92326b38cac86e48cbf3b24a9667f29b1bd9459a07ed6"
+      ],
+      "contexto_referencia": "PROGRAMA \"DESCARTE CORRETO DE\nMEDICAMENTOS\"\n Iniciativa de educação e responsabilidade\nambiental, que contempla:\nDistribuição de cartilhas informativas sobre\no descarte adequado.\nImplantação de pontos de recolhimento de\nmedicamentos nas unidades da PCDF.\nATIVIDADES EM FASE DE IMPLEMENTAÇÃO:\nPadronização de Medicamentos:\nPadronização de Produtos Correlatos:\njunto aos núcleos de Fisioterapia, Enfermagem e Psicologia\nPRINCIPAIS ATIVIDADES:\nGerenciamento de resíduos de toda a Policlínica da PCDF, garantindo\no correto descarte e o cumprimento das normas ambientais e\nsanitárias.\nAbastecimento de produtos médicos e correlatos para os diversos\nnúcleos da Policlínica, incluindo:\nAquisição de materiais por meio de processos licitatórios;\nArmazenamento e controle de estoque;\nDistribuição e monitoramento do consumo dos produtos.\nRegulamentação e controle de medicamentos controlados,\nabrangendo livros de registro, receituário especial, notificações e\nreceitas.\nGestão de impressos da Policlínica, acompanhando a solicitação e\na impressão na gráfica da PCDF (DRM) de documentos como\natestados, fichas de atendimento, triagens e formulários de\nexames.\n"
+    },
+    {
+      "pergunta": "Quem é atendido pela psiquiatria na policlínica?",
+      "resposta_referencia": "Policiais e seus dependentes",
+      "documentos_relevantes": [
+        "e8e3b702704e71d7e8bfcbf2376b2e086f4cf7281073291d0b5b64938e1ba614"
+      ],
+      "contexto_referencia": "POLICLÍNICA/GABDG/ PCDF\nCARTA DE SERVIÇOS AO USUÁRIO\n3\n14\n\n\nCARTA DE SERVIÇOS AO USUÁRIO\n A Gerência de Assistência Psicossocial tem como\nmissão  garantir acolhimento humanizado, atendimento\npsicológico especializado e ações preventivas voltadas à\nsaúde mental, com qualidade técnica e ética profissional,\nrespondendo à necessidade de atendimento\nespecializado, integrando-se aos demais serviços das\nredes de atenção à saúde. \nA Gerência é constituída por equipe multidiciplinar,\nvisando uma abordagem integral e interdisciplinar e\ncompreende os serviços de:\nPsiquiatria (SEPSIQ);\nPsicologia (SEPSI);\nAssistência Social (SAS);\nAssistência Espiritual - Capelania (SAE).\nGEAP\nPOLICLÍNICA/GABDG/ PCDF\nCARTA DE SERVIÇOS AO USUÁRIO\n3\n15\n\n\nPsiquiatria\nPÚBLICO ATENDIDO\nCarreira policial (ativos e aposentados),\nprioritariamente;\nCarreira de apoio à atividade policial;\nDependentes de policiais.\n "
+    },
+    {
+      "pergunta": "Como posso agendar uma consulta com um psiquiatra?",
+      "resposta_referencia": "Pelo telefone ou pessoalmente",
+      "documentos_relevantes": [
+        "64988cafe02bd030a50f915b7c331e7696eea36a93cdac0fb8c24f12d2c153f0"
+      ],
+      "contexto_referencia": "A equipe é formada por médicas psiquiatras\nhabilitadas para o atendimento de pessoas com\ntranstornos psiquiátricos e/ou em situação de\nintenso sofrimento psíquico. Além disso, realizam\natendimentos em regime ambulatorial, conforme\na necessidade de cada paciente.\nMARCAÇÃO DE CONSULTAS E EXAMES\nConsulta com hora marcada, ou pessoalmente \nou pelos telefones (61) 3207-5851 /5853.\nO atendimento com o médico psiquiatra possui objetivo de prevenção,\ndiagnóstico, tratamento e reabilitação das diferentes formas de\nsofrimentos mentais, sejam elas de cunho orgânico ou funcional, com\nmanifestações que causam significativo prejuízo na rotina do indivíduo.\nA psicologia ou outras áreas afetas à saúde mental podem realizar\nencaminhamentos para psiquiatria, que mediante disponibilidade de\nagenda das profissionais e riscos identificados serão atendidos. \nA Psiquiatria durante o atendimento em consulta irá descrever as\ninformações pertinentes sobre a demanda: descrição dos sintomas, início,\nfrequência, intensidade, contextos e outras informações relevantes.\n"
+    },
+    {
+      "pergunta": "Como faço para marcar uma consulta de psicologia?",
+      "resposta_referencia": "Pelos telefones: 3207-5851 e 3207-5853 ou por e-mail",
+      "documentos_relevantes": [
+        "de74d96ceb32badef635b8114e039a836861029bff3bc4721e442ef915861edc"
+      ],
+      "contexto_referencia": "As urgências e Emergências serão direcionadas para atendimento no\nSAMU ou Hospitais.\n \nPOLICLÍNICA/GABDG/ PCDF\nCARTA DE SERVIÇOS AO USUÁRIO\n3\nATUAÇÃO DO SERVIÇO DE PSIQUIATRIA\n16\n\n\nPsicologia\nATUAÇÃO DO SERVIÇO DE PSICOLOGIA \nAtendimentos em psicoterapia individual, casal e família, no período\ncompreendido entre 8h e 18h, de segunda a sexta-feira.\nO Núcleo de Psicologia participa de diversas ações em saúde mental e\nanálises de indicadores de sofrimentos no trabalho, Grupos Reflexivos,\nIntervenções em Incidentes Críticos, Acolhimentos de Urgência,\nInspeção Psicológica.\nPúblico atendido:\nCarreira policial (ativos e aposentados), prioritariamente;\nCarreira de apoio à atividade policial\nDependentes de policiais\nMARCAÇÃO DE CONSULTAS\nPelos telefones: 3207-5851 e 3207-5853. \nE-mail:nupsipoliclinica@gmail.com\nACOLHIMENTO EM SITUAÇÕES \nDE CRISE PSÍQUICA: \nRealizado em sistema de plantão, \nde segunda a sexta-feira, \ndas 08h às 18h30.\nO ATENDIMENTO PODE OCORRER\nPor procura espontânea do servidor\nPor encaminhamento das demais\nespecialidades da Policlínica.\n"
+    },
+    {
+      "pergunta": "Como eu posso agendar um atendimento na Policlínica?",
+      "resposta_referencia": "Por telefone, procurando a recepção ou por encaminhamento de outra especialidade",
+      "documentos_relevantes": [
+        "4a9d1d7c13ff2991593d2c4a2b5c60033996eb8f2d6eb28a4761ede509d1d5cb"
+      ],
+      "contexto_referencia": "O Serviço de Psicologia da Policlínica oferece\natendimento clínico voltado aos servidores, com\nfoco no acolhimento, escuta qualificada e\nfortalecimento emocional. \nPOLICLÍNICA/GABDG/ PCDF\nCARTA DE SERVIÇOS AO USUÁRIO\n3\n17\n\n\nPOLICLÍNICA/DGP/DGPC/PCDF\nCARTA DE SERVIÇOS AO USUÁRIO\nO Serviço de Assistência Social  da Policlínica atua no atendimento a policiais\ncivis, seus dependentes em situação de emergência, pensionistas e\naposentados, oferecendo acolhimento e suporte frente às demandas\nsociais.\nPRINCIPAIS ATRIBUIÇÕES\norientar os servidores sobre direitos sociais e acesso a serviços públicos; \nelaborar estudos socioeconômicos que identifiquem condições de vida,\nsaúde e contexto familiar; \nsubsidiar a atuação das equipes multiprofissionais de saúde.\nO assistente social também busca destacar os determinantes sociais da\nsaúde, promover o acesso a benefícios da seguridade social, realizar visitas\ndomiciliares sem ferir a privacidade do servidor e articular redes de apoio\npara fortalecer a garantia de direitos e a melhoria da qualidade de vida dos\nintegrantes da Instituição.\nAssistência\n Social\nA Assistência Social da Policlínica\nda \nPCDF \noferece \napoio\npsicossocial a servidores (ativos,\ninativos) e seus dependentes.\nMARCAÇÃO DE ATENDIMENTO\nCom hora marcada, por meio dos telefones (61) 3207-5851 /5853;\nProcura espontânea por parte do servidor na recepção da Policlínica;\nPor encaminhamento das outras especialidades existentes na policlínica.\n"
+    },
+    {
+      "pergunta": "Quem cuida da espiritualidade dos servidores na Polícia Civil do Distrito Federal?",
+      "resposta_referencia": "A Capelania",
+      "documentos_relevantes": [
+        "6eed7e017b6f9e5aabfe974b30571ba623a6caf7cd6dedc3e582ecb96e7dd2c7"
+      ],
+      "contexto_referencia": "POLICLÍNICA/GABDG/ PCDF\nCARTA DE SERVIÇOS AO USUÁRIO\n3\n18\n\n\nCARTA DE SERVIÇOS AO USUÁRIO\nCapelania\nSERVIÇOS OFERECIDOS\nAtendimentos individuais e apoio em momentos críticos;\nAcompanhamento em domicílio e hospitais;\nRealização de cerimônias fúnebres;\nAuxilio à psicologia, psiquiatria e serviço social em diversas situações;\nRealização de missas e cultos para os servidores.\nA Seção de Assistência Espiritual (SAE) - Capelania - cuida do eixo da\nespiritualidade, fornecendo serviços religiosos, com treinamento e\ncredenciamento para apoio espiritual, orações e conforto emocional\naos servidores.\nA Capelania é reconhecida como uma atividade de acesso à\nassistência espiritual de acordo com crenças e convicções religiosas.\nA Polícia Civil do Distrito Federal implantou o Projeto Fé-Capelania, a\nfim de oferecer assistência espiritual aos servidores e familiares no\nâmbito da PCDF, tendo na espiritualidade mais um instrumento em\nprol da qualidade de vida, valorização profissional e cuidado com a\nsaúde integral do indivíduo.\nPRECISANDO DE APOIO ESPIRITUAL? \nprocure a nossa capelania pelos telefones:\n(61) 3207- 5851 ou (61) 98142-9900\nPOLICLÍNICA/GABDG/ PCDF\nCARTA DE SERVIÇOS AO USUÁRIO\n3\n19\n\n\nCARTA DE SERVIÇOS AO USUÁRIO\nA \nGerência \nde \nReabilitação \ne \nde \nAssistência\nComplementar e de Imagem da Policlínica é responsável\npela promoção, prevenção e recuperação da saúde física  dos\nservidores.\n"
+    }
+  ]
+}
